@@ -1,0 +1,10 @@
+scheme TestObject(D) {
+
+	text(G)
+	obj2(D): +OWNER
+}
+
+scheme TestObject2(G) {
+
+	kek(D)
+}
